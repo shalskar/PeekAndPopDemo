@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PeekAndPopDemo</string>
+    <string name="activity_example">Example Activity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="peek_standard">Standard</string>
+    <string name="peek_longhold">Long hold</string>
+    <string name="peek_fling">Fling</string>
+    <string name="peek_hold_and_release">Hold and release</string>
+    <string name="peek_example">Example use</string>
+</resources>

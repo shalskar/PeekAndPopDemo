@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+    <item android:id="@+id/action_standard" android:title="@string/peek_standard"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/action_longhold" android:title="@string/peek_longhold"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/action_fling" android:title="@string/peek_fling"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/action_hold_and_release" android:title="@string/peek_hold_and_release"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/action_example" android:title="@string/peek_example"
+        android:orderInCategory="100" app:showAsAction="never" />
+</menu>

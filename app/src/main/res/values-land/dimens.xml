@@ -1,0 +1,7 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="image_width">320dp</dimen>
+    <dimen name="image_height">240dp</dimen>
+    <dimen name="thumbnail_width">148dp</dimen>
+    <dimen name="thumbnail_height">148dp</dimen>
+</resources>
