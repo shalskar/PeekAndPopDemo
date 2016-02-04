@@ -1,16 +1,13 @@
 package com.shalskar.peekandpopdemo;
 
 import android.content.Context;
-import android.content.res.Configuration;
 import android.support.v4.view.PagerAdapter;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
-import android.widget.LinearLayout;
 
 import com.squareup.picasso.Picasso;
-import com.squareup.picasso.RequestCreator;
 
 /**
  * Created by Vincent on 24/01/2016.

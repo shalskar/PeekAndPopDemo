@@ -208,7 +208,6 @@ public class PeekAdapter extends RecyclerView.Adapter<PeekAdapter.ViewHolder> {
             ActivityOptionsCompat options = ActivityOptionsCompat.makeSceneTransitionAnimation(activity, viewPager, "image");
             activity.startActivity(intent, options.toBundle());
         } else {
-            activity.overridePendingTransition(R.anim.push_in_bottom, R.anim.push_out_bottom);
             activity.startActivity(intent);
         }
     }
